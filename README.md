@@ -1,5 +1,7 @@
 # Material WordPress
 ##### Bootstrap Material Design Theme for WordPress
+Refactoring of https://github.com/theblackhole/material-wordpress-old
+
 
 **v0.0.1** : nothing's done yet, working on the workflow...
 
