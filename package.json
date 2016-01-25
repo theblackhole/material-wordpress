@@ -1,0 +1,21 @@
+{
+  "name": "material-wordpress",
+  "version": "0.0.1",
+  "description": "Bootstrap Material Design Theme for Wordpress",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theblackhole/material-wordpress.git"
+  },
+  "author": "Enguerran P. <contact@epoulain.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theblackhole/material-wordpress/issues"
+  },
+  "homepage": "https://github.com/theblackhole/material-wordpress#readme"
+}

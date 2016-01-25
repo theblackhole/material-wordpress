@@ -1,0 +1,21 @@
+{
+    "name": "theblackhole/material-wordpress",
+    "description": "Bootstrap Material Design Theme for WordPress",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Enguerran P.",
+            "email": "contact@epoulain.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "roots/bedrock": "1.5.0"
+    },
+    "extra": {
+        "wordpress-install-dir": "www"
+    }
+
+}

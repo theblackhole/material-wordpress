@@ -1,0 +1,24 @@
+{
+  "name": "material-wordpress",
+  "homepage": "https://github.com/theblackhole/material-wordpress",
+  "authors": [
+    "Enguerran P. <contact@epoulain.fr>"
+  ],
+  "description": "Bootstrap Material Design Theme for Wordpres",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-material-design": "~0.5.7"
+  }
+}

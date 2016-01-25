@@ -1,0 +1,3 @@
+[submodule "www/bedrock"]
+	path = www/bedrock
+	url = https://github.com/roots/bedrock.git
